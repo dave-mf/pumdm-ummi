@@ -14,7 +14,7 @@ for a given task.
 Release Information
 *******************
 
-this repo contains pumdm website with full release domain : pumdm-ummi.online
+this repo contains pumdm website with full release domain : http://pumdm-ummi.online/
 
 **************************
 Changelog and New Features
